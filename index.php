@@ -220,7 +220,7 @@
 				    <div class="col-md-3">
 				      <input type="email" class="form-control" id="validationCustom02" placeholder="Email address" value="" required>
 				      <div class="invalid-feedback">
-				        Looks good!
+				        Please Enter a valid Email Address
 				      </div>
 				    </div>
 				    <div class="col-md-2">
